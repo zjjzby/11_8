@@ -14,4 +14,6 @@ http://neuralnetworksanddeeplearning.com/chap6.html
 机器学习：
 林轩田
 
+cs231:
+http://cs231n.github.io/convolutional-networks/
 ### 
